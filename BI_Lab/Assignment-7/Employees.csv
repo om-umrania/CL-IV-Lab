@@ -1,0 +1,4 @@
+EmployeeID,LastName,FirstName,Title,BirthDate,HireDate,City,Country
+1,Davolio,Nancy,Sales Representative,1948-12-08,1992-05-01,Seattle,USA
+2,Fuller,Andrew,"Vice President, Sales",1952-02-19,1992-08-14,Tacoma,USA
+3,Leverling,Janet,Sales Representative,1963-08-30,1992-04-01,Kirkland,USA

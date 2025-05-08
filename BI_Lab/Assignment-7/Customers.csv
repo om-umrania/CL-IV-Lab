@@ -1,0 +1,4 @@
+CustomerID,CompanyName,ContactName,ContactTitle,Address,City,PostalCode,Country,Phone
+VINET,Vins et alcools Chevalier,Paul Henriot,Accounting Manager,59 rue de l'Abbaye,Reims,51100,France,26.47.15.10
+TOMSP,Toms Spezialitäten,Karin Josephs,Marketing Manager,Luisenstr. 48,Münster,44087,Germany,0251-031259
+HANAR,Hanari Carnes,Mario Pontes,Accounting Manager,"Rua do Paço, 67",Rio de Janeiro,05454-876,Brazil,(21) 555-0091
