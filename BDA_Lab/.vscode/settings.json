@@ -1,0 +1,5 @@
+{
+  "java.project.referencedLibraries": [
+    "/opt/homebrew/opt/hadoop/libexec/share/hadoop/**/*.jar"
+  ]
+}
